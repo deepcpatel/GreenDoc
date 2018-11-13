@@ -2,7 +2,7 @@
 Plant disease detection and remedy suggestions using Deep Learning, Cloud computing and Android.
 <br/>**"Best Data Science Hack" winner at [Sunhacks 2018](https://sunhacks.io/)**.
 
-## Members
+## Team Members
 Deep C.Patel, Satyak Patel, Jay Vaghasiya and Hardik Shah.
 
 ## Inspiration
