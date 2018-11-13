@@ -1,6 +1,6 @@
 # GreenDoc
 Plant disease detection and remedy suggestions using Deep Learning, Cloud computing and Android.
-<br/>**"Best Data Science Hack" winner in [Sunhacks 2018](https://sunhacks.io/)**.
+<br/>**"Best Data Science Hack" winner in [Sunhacks 2018](https://sunhacks.io/) hackathon**.
 
 ## Team members
 Deep C.Patel, Satyak Patel, Jay Vaghasiya and Hardik Shah.
