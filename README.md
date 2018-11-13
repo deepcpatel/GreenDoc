@@ -3,7 +3,7 @@ Plant disease detection and remedy suggestion using Deep Learning, Cloud computi
 <br/>**"Best Data Science Hack" winner in [Sunhacks 2018](https://sunhacks.io/) hackathon**.
 
 ## Team members
-Deep C.Patel, Satyak Patel, Jay Vaghasiya and Hardik Shah.
+[Deep C.Patel](https://github.com/deepcpatel), Satyak Patel, [Jay Vaghasiya](https://github.com/Jaysparkexel) and Hardik Shah.
 
 ## Inspiration
 The population on the globe is increasing rapidly and to support it we require enough food resources. But food production is already facing some serious problems such as Climate Change, Pollution and Plant Disease. According to Dr. David, the later one accounts for 42% loss of six major food crops on an average[1]. On the other hand, the adoption of smartphones with an active internet connection is rising. Hence, we can make a good use of this to reduce the crop loss due to plant disease. This inspired us to develop an application for plant disease detection by utilizing the existing technologies.
