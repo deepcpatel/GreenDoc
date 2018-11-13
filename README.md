@@ -1,5 +1,8 @@
 # GreenDoc
 
+## Members
+Deep C.Patel, Satyak Patel, Jay Vaghasiya and Hardik Shah.
+
 ## Inspiration
 The population on the globe is increasing rapidly and to support it we require enough food resources. But food production is already facing some serious problems such as Climate Change, Pollution and Plant Disease. According to Dr. David, the later one accounts for 42% loss of six major food crops on an average[1]. On the other hand, the adoption of smartphones with an active internet connection is rising. Hence, we can make a good use of this to reduce the crop loss due to plant disease. This inspired us to develop an application for plant disease detection by utilizing the existing technologies.
 
@@ -34,6 +37,9 @@ Non-Technical:
 
 ## What's next for GreenDoc
 Improve the application further and publish it commercially.
+
+## DevPost Link
+https://devpost.com/software/greendoc
 
 ## References
 (1). https://www.mdpi.com/journal/agriculture/special_issues/plant_disease.
