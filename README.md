@@ -1,5 +1,5 @@
 # GreenDoc
-Plant disease detection and remedy suggestions using Deep Learning, Cloud computing and Android.
+Plant disease detection and remedy suggestion using Deep Learning, Cloud computing and Android.
 <br/>**"Best Data Science Hack" winner in [Sunhacks 2018](https://sunhacks.io/) hackathon**.
 
 ## Team members
