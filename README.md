@@ -7,7 +7,7 @@ The population on the globe is increasing rapidly and to support it we require e
 It detects the plant disease from the snapshot of the plant leaf. All a farmer has to do is capture the plant leaf image from our app in his mobile. The app will send this image to our AI system hosted on Google Cloud Platform. Our AI will detect the disease form the image and send back the disease name, remedies, and precautions to the farmer.
 
 ## How we built it
-<br />(1). We first finalized the idea, identified the requirements and made a plan.
+(1). We first finalized the idea, identified the requirements and made a plan.
 <br />(2). Then, we assigned the task to each member of the team based on their expertise.
 <br />(3). The first phase included the tasks like reading research papers, tutorials, and download the dataset.
 <br />(4). In the second phase of the project, we started developing the platform which included developing Machine Learning model, writing scripts for the Cloud Operations and developing an Android Application.
@@ -36,7 +36,7 @@ Non-Technical:
 Improve the application further and publish it commercially.
 
 ## References
-<br />(1). https://www.mdpi.com/journal/agriculture/special_issues/plant_disease.
+(1). https://www.mdpi.com/journal/agriculture/special_issues/plant_disease.
 <br />(2). Data : https://github.com/spMohanty/PlantVillage-Dataset
 <br />(3). Reference Paper : https://arxiv.org/abs/1604.03169
 <br />(4). Reference Code : https://github.com/tensorflow/models/blob/master/research/slim/nets/alexnet.py
