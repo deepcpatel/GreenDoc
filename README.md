@@ -6,7 +6,7 @@ Plant disease detection and remedy suggestion using Deep Learning, Cloud computi
 [Deep C.Patel](https://github.com/deepcpatel), Satyak Patel, [Jay Vaghasiya](https://github.com/Jaysparkexel) and Hardik Shah.
 
 ## Inspiration
-The population on the globe is increasing rapidly and to support it we require enough food resources. But food production is already facing some serious problems such as Climate Change, Pollution and Plant Disease. According to Dr. David, the later one accounts for 42% loss of six major food crops on an average[1]. On the other hand, the adoption of smartphones with an active internet connection is rising. Hence, we can make a good use of this to reduce the crop loss due to plant disease. This inspired us to develop an application for plant disease detection by utilizing the existing technologies.
+The population on the globe is increasing rapidly and to support it we require enough food resources. But food production is already facing some serious problems such as Climate Change, Pollution and Plant Disease. According to Dr. David, the later one accounts for 42% loss of six major food crops on an average[1]. On the other hand, the adoption of smartphones with an active internet connection is rising. We can put these smartphones to good use by adding functionality to detect plant disease instantly and get remedy for that, thus curing the disease if possible and avoid spreading it further. This inspired us to develop an application for plant disease detection by utilizing the existing technologies.
 
 ## What it does
 It detects the plant disease from the snapshot of the plant leaf. All a farmer has to do is capture the plant leaf image from our app in his mobile. The app will send this image to our AI system hosted on Google Cloud Platform. Our AI will detect the disease form the image and send back the disease name, remedies, and precautions to the farmer.
@@ -22,7 +22,7 @@ It detects the plant disease from the snapshot of the plant leaf. All a farmer h
 Cloud integration, the complexity of the AI model and data processing and handling.
 
 ## Accomplishments that we're proud of
-We are able to classify the plant disease images successfully and won the title of "Best Data Science hack: in the hackathon.
+We are able to classify the plant disease images successfully and won the title of "Best Data Science hack" in the hackathon.
 
 ## What we learned
 Technical:
