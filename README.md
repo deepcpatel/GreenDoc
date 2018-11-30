@@ -3,10 +3,10 @@ Plant disease detection and remedy suggestion using Deep Learning, Cloud computi
 <br/>**"Best Data Science Hack" winner in [Sunhacks 2018](https://sunhacks.io/) hackathon**.
 
 ## Team members
-[Deep C.Patel](https://github.com/deepcpatel), Satyak Patel, [Jay Vaghasiya](https://github.com/Jaysparkexel) and Hardik Shah.
+[Deep C.Patel](https://github.com/deepcpatel), [Satyak Patel](https://github.com/Satyak22), [Jay Vaghasiya](https://github.com/Jaysparkexel) and [Hardik Shah](https://github.com/hrshah5).
 
 ## Inspiration
-The population on the globe is increasing rapidly and to support it we require enough food resources. But food production is already facing some serious problems such as Climate Change, Pollution and Plant Disease. According to Dr. David, the later one accounts for 42% loss of six major food crops on an average[1]. On the other hand, the adoption of smartphones with an active internet connection is rising. We can put these smartphones to good use by adding functionality to detect plant disease instantly and get remedy for that, thus curing the disease if possible and avoid spreading it further. This inspired us to develop an application for plant disease detection by utilizing the existing technologies.
+The population on the globe is increasing rapidly and to support it we require enough food resources. But food production is already facing some serious problems such as Climate Change, Pollution and Plant Disease. According to Dr. David, the later one accounts for 42% loss of six major food crops on an average<sup>[1]</sup>. On the other hand, the adoption of smartphones with an active internet connection is rising. We can put these smartphones to good use by adding functionality to detect plant disease instantly and get remedy for that, thus curing the disease if possible and avoid spreading it further. This inspired us to develop an application for plant disease detection by utilizing the existing technologies.
 
 ## What it does
 It detects the plant disease from the snapshot of the plant leaf. All a farmer has to do is capture the plant leaf image from our app in his mobile. The app will send this image to our AI system hosted on Google Cloud Platform. Our AI will detect the disease form the image and send back the disease name, remedies, and precautions to the farmer.
