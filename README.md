@@ -16,9 +16,9 @@ It is meant to detect the plant disease from the snapshot of the plant leaf. All
 <br />(3). **Disease Recognition Model:** SqueezeNet model in PyTorch
 
 ## Disease detection model details
-(1). We used SqueezeNet model<sup>[2]</sup> for disease classification because it is memory efficient due to less parameters and thus takes lesser training time.
-<br />(2). We trained our classification model on [PlantVillage dataset](https://github.com/spMohanty/PlantVillage-Dataset)<sup>[3]</sup>. This dataset has leaf images of 14 different plants and 38 disease classes in total.
-<br />(3). Instead of training our model from scratch, we used pre-trained weights for the training. This ensured excellent accuracy on the test data in less time.
+(1). We used SqueezeNet model<sup>[2]</sup> for disease classification as it is memory efficient and thus takes lesser training time.
+<br />(2). We trained our classification model on [PlantVillage dataset](https://github.com/spMohanty/PlantVillage-Dataset)<sup>[3]</sup>. This dataset has leaf images of 14 plants with 38 disease.
+<br />(3). Instead of training our model from scratch, we used pre-trained weights for the training.
 <br />(4). Our training code is a modified version of original training script available [here](https://github.com/MarkoArsenovic/DeepLearning_PlantDiseases)<sup>[4]</sup>.
 <br />(5). Test accuracy of our model is **91.60 %**.
 
@@ -29,5 +29,4 @@ Link to our similar hackation project: [DevPost Page](https://devpost.com/softwa
 [1]. D. Guest, "Special Issue Information", The Impact of Plant Disease on Food Security, 2012. [Link](https://www.mdpi.com/journal/agriculture/special_issues/plant_disease)
 <br />[2]. F. N. Iandola, S. Han, M. W. Moskewicz, K. Ashraf, W. J. Dally, and K. Keutzer, "Squeezenet: Alexnet-level accuracy with 50x fewer parameters and < 0.5 mb model size", arXiv preprint arXiv:1602.07360, 2016.
 <br />[3]. S. P. Mohanty, D. P. Hughes, and M. Salathé, “Using deep learning for image-based plant disease detection", Frontiers in plant science, vol. 7, p. 1419, 2016.
-<br />[4]. B. Mohammed, A. Marko, L. Sohaib, S. Srdjan, B. Kamel, and M. Abdelouhab, "Deep Learning for Plant Diseases: Detection and Saliency Map Visualisation", Book: "Human and Machine Learning: Visible, 
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Explainable, Trustworthy and Transparent", Springer International Publishing, p. 93-117, 2018.
+<br />[4]. B. Mohammed, A. Marko, L. Sohaib, S. Srdjan, B. Kamel, and M. Abdelouhab, "Deep Learning for Plant Diseases: Detection and Saliency Map Visualisation", Book: "Human and Machine Learning: Visible, Explainable, Trustworthy and Transparent", Springer International Publishing, p. 93-117, 2018.
