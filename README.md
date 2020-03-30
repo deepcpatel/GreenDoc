@@ -23,7 +23,7 @@ It is meant to detect the plant disease from the snapshot of the plant leaf. All
 <br />(5). Test accuracy of our model is **91.60 %**.
 
 ## DevPost Link
-Link to our similar hackation project: [DevPost Page](https://devpost.com/software/greendoc)
+Link to our similar hackathon project: [DevPost Page](https://devpost.com/software/greendoc)
 
 ## References
 **[1]**. D. Guest, "Special Issue Information", The Impact of Plant Disease on Food Security, 2012. [Link](https://www.mdpi.com/journal/agriculture/special_issues/plant_disease)
