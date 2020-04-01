@@ -2,7 +2,7 @@
 Plant disease detection and remedy suggestion using Deep Learning, Server computing and Android.
 
 ## Team members
-[Deep C.Patel](https://github.com/deepcpatel), [Satyak Patel](https://github.com/Satyak22), [Jay Vaghasiya](https://github.com/Jaysparkexel), [Hardik Shah](https://github.com/hrshah5) and [Priyansh Shah](https://github.com/pu37)
+[Deep C. Patel](https://github.com/deepcpatel), [Satyak Patel](https://github.com/Satyak22), [Jay Vaghasiya](https://github.com/Jaysparkexel), [Hardik Shah](https://github.com/hrshah5) and [Priyansh Shah](https://github.com/pu37)
 
 ## Inspiration
 The population on the globe is increasing rapidly and to support it we require enough food resources. But food production is already facing some serious problems such as Climate Change, Pollution and Plant Disease. According to Dr. David, the later one accounts for 42% loss of six major food crops on an average<sup>[1]</sup>. On the other hand, the adoption of smartphones with an active internet connection is rising. We can put these smartphones to good use by adding functionality to detect plant disease instantly and get a remedy for that, thus curing the disease if possible and avoid spreading it further. This inspired us to develop an application for plant disease detection by utilizing the existing technologies.
